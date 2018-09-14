@@ -90,6 +90,6 @@ The set of variables that were estimated from these signals are:
 
 ## Analytics
 
-As a last step, I perform some analytics on the clean dataset using the **dplyr** package to calculate the mean of each of the 79 types of feature measurements to find their mean per subject per activity, i.e. calculate 30 (number of subjects) x 6 (number of activities) = 180 means for each type of feature measurement.
+As a last step, I perform some analytics on the clean dataset using the **dplyr** package to calculate the mean of each of the 79 types of feature measurements to find their mean per subject per activity, i.e. calculate 30 (number of subjects) x 6 (number of activities) = 180 means for each type of feature measurements.
 
 Hence, the resulting table is a 180 x 81 dataframe.
