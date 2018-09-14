@@ -44,15 +44,15 @@ The dimension of the resulting dataframe was unchanged.
 
 The variables contained in the resulting dataframe may be described as follows:
 
-#### Column 1: subject
+#### Column 1, *integer*: subject
 
 This column describes the subject observed. There are 30 subjects, numbered from 1 to 30.
 
-#### Column 2: activity
+#### Column 2, *character*: activity
 
 This column describes the activity performed by the subject at the time of the measurement. There are 6 possible activities : walking, walking upstairs, walking downstairs, sitting, standing or laying.
 
-#### Columns 3 to 81: feature measurements
+#### Columns 3 to 81, *numeric*: feature measurements
 
 *(extract from features_info.txt)*
 
